@@ -1,4 +1,4 @@
-name: 下载并归档文件
+name: 同步 OpenHarmony 命令行工具
 
 on:
   workflow_dispatch:
